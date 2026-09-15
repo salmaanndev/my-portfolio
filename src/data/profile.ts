@@ -166,8 +166,6 @@ export const skillGroups = [
       'SPA architecture',
       'Agile delivery',
       'Graphic design',
-      'Photoshop',
-      'Illustrator',
     ],
   },
 ] as const
